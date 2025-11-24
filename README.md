@@ -38,8 +38,15 @@ npm install
 
 ## 🎯 Uso
 
+Para desarrollo:
 ```bash
-npm start
+npm run dev
+```
+
+Para producción:
+```bash
+npm run build
+npm run preview
 ```
 
 ## 📄 Licencia
